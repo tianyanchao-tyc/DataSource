@@ -4,13 +4,12 @@ import data.base.service.annotation.DataSource;
 import data.base.service.dao.DataSourceDao;
 import data.base.service.interfaces.DataSourceNames;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
 /**
  * 服务层
  *
- * @author tyc
+ * @author
  * date 2019-11-06
  */
 
