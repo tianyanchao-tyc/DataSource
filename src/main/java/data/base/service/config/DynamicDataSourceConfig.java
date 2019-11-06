@@ -1,6 +1,5 @@
 package data.base.service.config;
 
-import com.alibaba.druid.pool.DruidDataSource;
 import data.base.service.interfaces.DataSourceNames;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.jdbc.DataSourceBuilder;
@@ -15,7 +14,7 @@ import java.util.Map;
 /**
  * dataSource数据源配置
  *
- * @author tyc
+ * @author
  * date 2019-11-06
  */
 @Configuration

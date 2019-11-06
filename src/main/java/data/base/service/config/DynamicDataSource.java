@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * DynamicDataSource的申明，其作为工程全局的datasource使用
  *
- * @author tyc
+ * @author
  * date 2019-11-06
  */
 public class DynamicDataSource extends AbstractRoutingDataSource {
